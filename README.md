@@ -1,5 +1,6 @@
 #  Project : Sales Insights of Data Analysis-AtliQ 
-![image](https://github.com/user-attachments/assets/637dd1ce-0e2e-4eb8-aa0f-a65d4b561e27)
+![pb](https://github.com/user-attachments/assets/43c1cfe0-3a8b-4a99-b675-db0b92c1677c)
+
 
 ## Table of Contents:
 
